@@ -1,0 +1,10 @@
+hr {
+  border: 3px solid #f44336;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #f7f7f7;
+  font-family: Sans-serif;
+}
